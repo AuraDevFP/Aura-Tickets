@@ -1,6 +1,6 @@
 # 🎫 AURA TICKET'S Bot Ver. 2
 
-##Купить можно тут: https://funpay.com/lots/offer?id=80109099
+**Купить можно тут: https://funpay.com/lots/offer?id=80109099 **
 
 **Многофункциональный Discord-бот для тикетов, заявок и модерации.**
 
