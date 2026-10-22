@@ -1,4 +1,6 @@
-# 🎫 AURA TICKET'S Bot V1
+# 🎫 AURA TICKET'S Bot Ver. 2
+
+##Купить можно тут: https://funpay.com/lots/offer?id=80109099
 
 **Многофункциональный Discord-бот для тикетов, заявок и модерации.**
 
@@ -133,4 +135,4 @@ DISCORD_TOKEN=ВАШ_ТОКЕН_БОТА
 
 ---
 
-**AURA TICKET'S Bot V1 — поддержка, тикеты и заявки в одном решении. 💜**
+**AURA TICKET'S Bot Ver. 2 — поддержка, тикеты и заявки в одном решении. 💜**
